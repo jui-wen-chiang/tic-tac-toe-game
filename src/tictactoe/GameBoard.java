@@ -6,7 +6,7 @@ public class GameBoard {
     private char[][] board;
     private int size; // 3
 
-    public GameBoard(int size) {
+    public GameBoard() {
         this.size = size;
         board = new char[size][size];
 
