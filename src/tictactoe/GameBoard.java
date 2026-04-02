@@ -4,10 +4,10 @@ package tictactoe;
 public class GameBoard {
 
     private char[][] board;
-    private int size; // 3
+    private int size;
 
     public GameBoard() {
-        this.size = size;
+        this.size = 3;
         board = new char[size][size];
 
         for (int row = 0; row < size; row++) {
@@ -31,6 +31,7 @@ public class GameBoard {
             }
             System.out.println();
         }
+        System.out.println();
     }
 
     public void placeSymbol(int row, int col, char symbol) {

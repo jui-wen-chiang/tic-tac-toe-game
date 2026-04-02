@@ -9,20 +9,21 @@ public class ComputerAI {
     private char aiSymbol;
     private char playerSymbol;
 
-    public ComputerAI(GameBoard board, GameLogic logic, char ai, char player) {
+    public ComputerAI(GameBoard board, GameLogic logic, char aiSymbol, char playerSymbol) {
         this.board = board;
         this.logic = logic;
-        this.aiSymbol = ai;
-        this.playerSymbol = player;
+        this.aiSymbol = aiSymbol;
+        this.playerSymbol = playerSymbol;
     }
     
     //
     // hi call this to make the AI play their turn
     // i will comment this class properly another time :D
     //
-    public void handleAITurn() {
+    public int[] handleAITurn() {
         int[] move = findBestMove();
         board.placeSymbol(move[0], move[1], aiSymbol);
+        return move;
     }
 
     public int[] findBestMove() {
