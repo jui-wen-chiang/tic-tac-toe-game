@@ -20,7 +20,7 @@ The primary goal is to be the first player to align three of your symbols in a c
 ### Tech Stack
 This project is built using Pure Java, focusing on clean object-oriented design and efficient game logic.
 
-## Tesk
+## Tasks
 - Person 1 : GameBoard.java
 - Person 2 : UIHandler.java 
 - Person 3 : GameLogic.java
