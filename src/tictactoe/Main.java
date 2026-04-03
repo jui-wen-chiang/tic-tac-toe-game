@@ -1,6 +1,6 @@
 package tictactoe;
 
-// Person 5:
+// Howard Huang - 100846848
 public class Main {
     private static UIHandler ui;
     private static Player player1;

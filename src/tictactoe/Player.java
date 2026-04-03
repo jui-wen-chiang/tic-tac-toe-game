@@ -1,5 +1,6 @@
 package tictactoe;
 
+// Jui-Wen Chiang - 101571949
 public class Player {
     private String name;
     private char symbol; // 'X' or 'O'

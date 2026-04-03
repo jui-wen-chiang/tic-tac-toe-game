@@ -1,6 +1,6 @@
 package tictactoe;
 
-// Person 1:
+// Anastasiia Stoianova - 101592905
 public class GameBoard {
 
     private char[][] board;

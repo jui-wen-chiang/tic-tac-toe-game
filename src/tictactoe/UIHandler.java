@@ -2,7 +2,7 @@ package tictactoe;
 
 import java.util.Scanner;
 
-// Person 2: 
+// Philip Slawycz - 101006774
 public class UIHandler {
     public Scanner sc;
     // Initialize scanner once for the whole class

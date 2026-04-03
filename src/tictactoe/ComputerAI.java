@@ -2,7 +2,7 @@ package tictactoe;
 
 import java.util.Arrays;
 
-// Person 4:
+// Rene Vincent Quiambao - 101585336
 public class ComputerAI {
     private GameBoard board;
     private GameLogic logic;
