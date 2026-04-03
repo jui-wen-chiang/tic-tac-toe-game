@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-Tic-Tac-ToeA clean and interactive implementation of the classic Tic-Tac-Toe (Noughts and Crosses) game. This project features a standard 3×3 grid where two players compete to outmaneuver each other in a test of logic and strategy.
+Tic-Tac-Toe is a  clean and interactive implementation of the classic Tic-Tac-Toe (Noughts and Crosses) game. This project features a standard 3×3 grid where two players compete to outmaneuver each other in a test of logic and strategy.
 
 ## Dev Team Members
 * [Anastasiia Stoianova](https://github.com/AnastasiiaStoianova2025)
