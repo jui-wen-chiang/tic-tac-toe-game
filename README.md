@@ -4,10 +4,10 @@ Tic-Tac-Toe is a  clean and interactive implementation of the classic Tic-Tac-To
 
 ## Dev Team Members
 * [Anastasiia Stoianova](https://github.com/AnastasiiaStoianova2025)
-* [Howard Huang]()
+* Howard Huang
 * [Jui-Wen Chiang](https://github.com/jui-wen-chiang)
-* [Philip Slawycz]()
-* [Rene Vincent Quiambao]()
+* Philip Slawycz
+* Rene Vincent Quiambao
 
 ## Game Objective
 The primary goal is to be the first player to align three of your symbols in a continuous line. This line can be: Horizontal (Rows), Vertical (Columns) and Diagonal.
@@ -18,11 +18,4 @@ The primary goal is to be the first player to align three of your symbols in a c
 - Winning: The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.- Draw: When all 9 squares are full and no player has 3 marks in a row, the game ends in a draw.
 
 ### Tech Stack
-This project is built using Pure Java, focusing on clean object-oriented design and efficient game logic.
-
-## Tasks
-- Person 1 : GameBoard.java
-- Person 2 : UIHandler.java 
-- Person 3 : GameLogic.java
-- Person 4 : ComputerAI.java
-- Person 5 : Main.java and Integration Testing
+This project is built using Pure Java, focusing on clean object-oriented design and efficient game logic
